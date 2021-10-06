@@ -1,0 +1,17 @@
+.idea/
+.ipynb_checkpoints/
+**/__pycache__/
+*/**/__pycache__
+*/*.pyc
+*/**/*.pyc
+*/**/**/*.pyc
+*/**/**/**/*.pyc
+*/**/**/**/**/*.pyc
+*/*.so*
+*/**/*.so*
+*/**/*.dylib*
+runs/
+checkpoints/
+results/
+trained_models/
+
